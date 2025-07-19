@@ -42,7 +42,7 @@ Para ejecutar este proyecto localmente, necesitas configurar las siguientes vari
     ```
 
 ### Cómo Ejecutarlo
-1.  Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+1.  Clona este repositorio: `git clone https://github.com/CenitiumDev/Image-Tagger-API.git`
 2.  Navega a la carpeta del proyecto.
 3.  Configura tus credenciales en el archivo `application.properties`.
 4.  Ejecuta el proyecto usando Maven: `mvn spring-boot:run`
